@@ -47,8 +47,6 @@ Parameters are then controlled using a Visual Effect Graph to achieve this effec
 
 ![Trail](git/images/beamstrip.png)
 
-----
-
 ## Dependency Texture Names
 
 - T_BlurNoise001.tga
